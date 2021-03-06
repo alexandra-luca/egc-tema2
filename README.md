@@ -1,2 +1,21 @@
-# egc-tema2
-Skyroads-like 3D game
+# Skyroads-like 3D game
+
+![](skyroads-gif.gif)
+
+![](skyroads-ss.PNG)
+
+### Description
+
+A Skyroads-style 3D game
+
+Tech stack:
+ * C++
+ * OpenGL
+ * EGC Framework
+
+### Features
+
+ * 5 levels with increasing difficulty
+ * 6 types of platforms with different effects / power-ups
+ * Fuel bar that keeps the player on their toes
+ * Animations and graphic design
